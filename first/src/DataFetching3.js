@@ -20,7 +20,7 @@ function DataFetching3(){
         <table class="table">
   <thead>
     <tr>
-      <th scope="col">ID</th>
+      <th scope="col">ID </th>
       <th scope="col">UserName</th>
       <th scope="col">Phone</th>
       <th scope="col">FirstName</th>
