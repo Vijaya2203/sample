@@ -16,7 +16,7 @@ function DataFetching2(){
     })
 
     return(
-        <div>Fetching Data
+        <div>Fetching the Data
         {data.map((dataItem, index)=>
         <tr key={index}>{dataItem.title}</tr>
         )}
